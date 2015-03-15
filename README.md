@@ -2,6 +2,8 @@
 
 Runs a containerized ftb server. (Currently FTB Infinity 1.2.1)
 
+*This will auto-agree to the Mojang EULA so make sure you agree with it first https://account.mojang.com/documents/minecraft_eula*
+
 Steps
 -------
 Build an image, java, curl, ftb:
